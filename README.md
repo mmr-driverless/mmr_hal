@@ -1,4 +1,4 @@
 # MMR Core - Gen. 2
 
-## contributors
+## Contributors
     - Onofrio Matteo
