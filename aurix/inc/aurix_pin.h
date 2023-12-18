@@ -1,5 +1,5 @@
-#ifndef APP_STM_INC_STM_PIN_H_
-#define APP_STM_INC_STM_PIN_H_
+#ifndef APP_AURIX_INC_AURIX_PIN_H_
+#define APP_AURIX_INC_AURIX_PIN_H_
 
 #include <pin.h>
 #include <stdint.h>
@@ -26,4 +26,4 @@ struct MmrPin {
 
 MmrPin MMR_Pin(GPIO_TypeDef *port, uint16_t pin, bool hasInvertedLogic);
 
-#endif // !APP_STM_INC_STM_PIN_H_
+#endif // !APP_AURIX_INC_AURIX_PIN_H_
