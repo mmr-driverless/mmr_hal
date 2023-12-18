@@ -2,4 +2,5 @@
 
 ## Contributors
  - Onofrio Matteo
+ - Savazzi Samuele
  - Cirillo Cristian Pio
