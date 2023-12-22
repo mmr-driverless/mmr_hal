@@ -14,8 +14,6 @@
 #define BSP_DEFAULT_TIMER  (&MODULE_STM0)
 #endif
 
-#define IFX_INLINE        static inline
-
 
 
 typedef long long Tick;

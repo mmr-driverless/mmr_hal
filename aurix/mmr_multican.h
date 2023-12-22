@@ -1,6 +1,6 @@
 #include "IfxMultican_Can.h"
 #include "lib/can/inc/message.h"
-#include "lib/pin/inc/pin.h"
+#include "lib/pin/inc/aurix_pin.h"
 // #include "lib/can/inc/can.h"
 #include <stdint.h>
 
